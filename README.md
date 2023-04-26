@@ -1,6 +1,9 @@
 # Stock Market Prediction
 The motivation for this project is to provide a more informed and data-driven approach to stock trading, which can potentially lead to higher profits and better investment decisions, and a trading bot that uses machine learning to predict optimal times to buy and sell Tencent stock. We chose to use Tencent's historical stock movement (0700.HK) data due to its consistent growth and stability, making it a reliable investment option.
 
+# About me
+i am a computer science engineer specialized in data science and machine learning, I offer my services on Fiverr. you can check out my gig [here] (https://www.fiverr.com/jalilb_/build-machine-learning-deep-learning-projects-with-python)
+
 # Project description
 This potential project aims to develop a trading mechanism that can predict the high and low stocks of Tencent (0700.HK). We will then clean and preprocess the data then the argrelextrema method from the scipy.signal package, which locates local maximum and minimum values, will be used to extract and annotate the dataset. The machine learning model used will be a classification model with three classes: high, low, and neither.
 
